@@ -1,0 +1,24 @@
+# MATLAB generated files
+*.asv
+*.fig
+*.mex*
+*.mdl
+*.slx
+*.autosave
+*.mat
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / backup / cache
+*.bak
+*.tmp
+*.swp
+*.~*
+*.cache
+
+# Results / outputs
+results/
+logs/
