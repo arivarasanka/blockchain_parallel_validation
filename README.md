@@ -60,7 +60,7 @@ CSV inputs should expose, at a minimum:
 - `tx_hash` – unique identifier for display/logging.
 - `access_read`, `access_write` – semi-colon-separated storage keys (strings) used to construct conflict graphs.
 - `gas_used` – execution cost per transaction.
-- 'weight_eth' or 'weight_wei' - rewards in different units. We use eth in the paper.
+- `weight_eth` or `weight_wei` - rewards in different units. We use eth in the paper.
 
 ## Reproducing paper experiments
 
