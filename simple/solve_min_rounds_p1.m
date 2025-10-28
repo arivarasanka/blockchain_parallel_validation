@@ -1,3 +1,18 @@
+% -------------------------------------------------------------------------
+% Author: [Arivarasan Karmegam]
+% Supervisor Name: [Antonio Fernandez Anta]
+% Copyright (C) [2025] [IMDEA Networks Institute]. All rights reserved.
+% This program is free software: you can redistribute it and/or modify
+% it under the terms of the GNU General Public License as published by
+% the Free Software Foundation, either version 3 of the License, or
+% (at your option) any later version.
+%
+% This program is distributed in the hope that it will be useful,
+% but WITHOUT ANY WARRANTY; without even the implied warranty of
+% MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+% GNU General Public License for more details.
+% -------------------------------------------------------------------------
+
 function [xMat, y, objval, exitflag, output] = solve_min_rounds_p1(n, R, p, E)
 % Inputs: n (#transactions), R (max rounds), p (capacity), E (m-by-2 precedence arcs [i j])
 
